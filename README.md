@@ -5,7 +5,7 @@ This is a standard algorithm to gain control under the Robomaster S1 EP.
   
 To find out more information about how all of this work see the [protocol api](<https://robomaster-dev.readthedocs.io/zh_CN/release_en/text_sdk/protocol_api.html>) for Robomaster
 
-So, to begin the work, firs of all:
+So, to begin the work, firsе of all:
 1. clone the repo to the desired directory.
 2. Use conda `pip3 install conda` to create the virtual environment
 3. Create the virtual ennviroment called dji to use python 3.7 `conda create -n dji python=3.7`
